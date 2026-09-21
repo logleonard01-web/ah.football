@@ -1,0 +1,104 @@
+# What Is a Football League? How League Competitions Work
+
+Football leagues are one of the main ways teams compete throughout a season. Instead of playing just one knockout match, teams usually play multiple games and collect points based on their results.
+
+But how does a football league actually work?
+
+## What Is a Football League?
+
+A football league is a competition in which teams play matches against other teams over a season.
+
+The exact format depends on the competition, but teams generally receive points for their results.
+
+A common points system is:
+
+* **3 points** for a win
+* **1 point** for a draw
+* **0 points** for a loss
+
+Teams are then placed in a league table based on their results.
+
+## What Is a League Table?
+
+A league table shows how teams are performing during the season.
+
+It commonly includes:
+
+* **Played (P)** — matches played
+* **Wins (W)** — matches won
+* **Draws (D)** — matches drawn
+* **Losses (L)** — matches lost
+* **Goals For (GF)** — goals scored
+* **Goals Against (GA)** — goals conceded
+* **Goal Difference (GD)** — goals scored minus goals conceded
+* **Points (Pts)** — points earned
+
+The exact columns can vary between competitions.
+
+## How Does a Team Move Up the Table?
+
+Teams earn more points by winning matches.
+
+For example, imagine a team plays three matches:
+
+* Win = 3 points
+* Draw = 1 point
+* Loss = 0 points
+
+That team would have four points after those three matches.
+
+As the season continues, teams can move up or down the table depending on their results.
+
+## What Is Goal Difference?
+
+Goal difference is calculated by subtracting goals conceded from goals scored.
+
+For example, if a team has scored 20 goals and conceded 12:
+
+**20 − 12 = +8 goal difference**
+
+Goal difference can become important when teams finish the season with the same number of points.
+
+## What Happens at the End of the Season?
+
+The outcome depends on the league's rules.
+
+The team finishing at the top may be declared champion.
+
+Other positions can determine qualification for continental competitions, promotion, or relegation.
+
+The exact consequences depend on the league and country.
+
+## What Is Promotion and Relegation?
+
+Some football league systems have multiple divisions.
+
+Teams that perform well in a lower division can earn **promotion** to a higher division.
+
+Teams that finish near the bottom of a higher division may be **relegated** to a lower division.
+
+This creates a system where clubs can move between divisions from season to season.
+
+## League Matches vs. Knockout Matches
+
+League competitions and knockout competitions work differently.
+
+In a league, teams usually continue playing matches throughout the season and collect points.
+
+In a knockout competition, a team can be eliminated after losing a particular tie or match.
+
+Some football competitions combine both formats, using a league phase followed by knockout rounds.
+
+## Why Are League Tables Important?
+
+League tables give fans a quick way to understand how teams are performing over an entire season.
+
+One individual match can be important, but a league usually rewards consistency across many games.
+
+A team that regularly earns points can remain competitive even if it has occasional poor results.
+
+## Final Thoughts
+
+Football leagues provide a structured way for teams to compete over an entire season. Points, goal difference, wins, draws, and losses all contribute to a team's position in the table.
+
+Once you understand how league tables work, following a football season becomes much easier.
